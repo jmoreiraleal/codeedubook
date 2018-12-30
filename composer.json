@@ -1,0 +1,15 @@
+{
+    "name": "codeedu/codeedubook",
+    "description": "",
+    "authors": [
+        {
+            "name": "José Moreira",
+            "email": "jmoreiraleal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeEduBook\\": ""
+        }
+    }
+}
